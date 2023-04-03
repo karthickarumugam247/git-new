@@ -1,1 +1,15 @@
-try to learn the unknown
+pipeline {
+
+agent any
+stages {
+    stage1 (build) {
+     steps {
+       }
+     }
+    stage2 (testing) {
+      steps {
+       }
+     }
+   }
+}
+
