@@ -9,5 +9,7 @@ agent any
         step {
        }
      }
+     stage3 (testing release) {
+     }
    }
 }
